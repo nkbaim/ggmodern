@@ -4,7 +4,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of ggmodern is provide a collection of Modern color palettes for ggplot2.
+The goal of ggmodern is to provide a collection of Modern color palettes for ggplot2.
 This package is inspired by R package [ggsci](https://github.com/nanxstats/ggsci) and color palettes from [coolors.co](https://coolors.co/palettes).
 
 ## Installation
